@@ -27,17 +27,3 @@ Durante a implementação deste projeto, aprendi os seguintes conceitos:
 
 Este projeto foi realizado de forma simples e pode ser expandido com funcionalidades como autenticação, múltiplos clientes ou até mesmo integração com banco de dados.
 
-## Como Executar
-
-### Pré-requisitos
-
-- **Java 1.7** ou superior instalado.
-- Conhecimento básico de **Java** e **programação de rede**.
-
-### Instruções para o Servidor
-
-1. Compile o arquivo `Servidor.java`:
-
-   ```bash
-   javac src/Servidor.java
-
